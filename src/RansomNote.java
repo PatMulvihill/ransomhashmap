@@ -8,6 +8,12 @@
  * github.com/PatMulvihill/HeapSort
  */
 
+/** 
+ * This program takes two strings, a magazine string and a ransom note string. 
+ * It evaluates whether or not the ransom note can be constructed using the words present in the ransom note. 
+ * It uses hashmaps to do so. 
+ */
+
 import java.util.*;
 
 public class RansomNote {
